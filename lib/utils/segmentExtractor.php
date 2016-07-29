@@ -1,4 +1,4 @@
-<?
+<?php
 include_once INIT::$UTILS_ROOT . "/cat.class.php";
 include_once INIT::$UTILS_ROOT . "/xliff.parser.1.2.class.php";
 

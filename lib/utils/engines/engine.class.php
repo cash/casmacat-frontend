@@ -1,4 +1,4 @@
-<?
+<?php
 /*
 function getEngineData($id) {
     $mysql_hostname = "10.30.1.241";            // Database Server machine

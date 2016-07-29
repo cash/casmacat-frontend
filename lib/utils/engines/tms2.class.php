@@ -1,4 +1,4 @@
-<?
+<?php
 include_once "engine.class.php";
 class TMS_GET_MATCHES {
 

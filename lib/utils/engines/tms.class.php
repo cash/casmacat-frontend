@@ -1,4 +1,4 @@
-<?
+<?php
 include_once realpath(dirname(__FILE__) . '/../../../') . '/inc/config.inc.php';
 include_once "engine.class.php";
 //include_once INIT::$UTILS_ROOT . "/cat.class.php";
